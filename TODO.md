@@ -1,0 +1,9 @@
+- [x] Create requirements.txt
+- [x] Set up virtual environment
+- [x] Install dependencies
+- [x] Create main.py (FastAPI app with endpoints for upload and query)
+- [x] Create ingestion.py (process documents, create embeddings)
+- [x] Create retrieval.py (retrieve and synthesize answers)
+- [x] Create static/index.html (simple frontend)
+- [x] Create README.md
+- [x] Test the application (run uvicorn main:app --reload after setting OPENAI_API_KEY)
