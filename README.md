@@ -1,6 +1,10 @@
 # Knowledge Base Search Engine
 
-A powerful Retrieval-Augmented Generation (RAG) search engine that lets users upload documents (PDF/TXT) and ask natural-language questions. Powered by Large Language Models (LLMs), it reads and understands your files—delivering clear, concise, and context-aware answers instead of just matching keywords. Whether you're exploring research papers, manuals, or notes, this tool helps you find what matters most
+A powerful Retrieval-Augmented Generation (RAG) search engine that lets users upload documents (PDF/TXT) and ask natural-language questions. Powered by Large Language Models (LLMs), it reads and understands your files—delivering clear, concise, and context-aware answers instead of just matching keywords. Whether you're exploring research papers, manuals, or notes, this tool helps you find what matters most.
+Deliverables :
+github link : 
+
+Demo video link : https://drive.google.com/file/d/1LzS1exKmHtNEPzlQlY_ARlv-3GUD1ckz/view?usp=sharing
 ## Features
 
 - Document ingestion: Upload multiple PDF and TXT files
